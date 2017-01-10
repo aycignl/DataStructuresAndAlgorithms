@@ -4,5 +4,5 @@ implement common data structures
 <ul>
   <li>g++ linkedList1.cpp</li>
   <li>./a.out</li>
-</ul>
+</ul><br>
 beneficial from https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g 
